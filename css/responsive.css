@@ -30,10 +30,10 @@
   }
   .social-icons a {
     margin: 0 0.5rem;
-    color: var(--clr-primary-5);
-    transition: var(--transition);
+    color:  hsl(205, 78%, 60%);
+    transition: all 0.3s linear;
   }
   .social-icons a:hover {
-    color: var(--clr-primary-7);
+    color:  hsl(205, 90%, 76%);
   }
 }
